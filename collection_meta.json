@@ -1,0 +1,6 @@
+{
+  "name": "Test TON Collection",
+  "description": "Educational NFT collection for TON blockchain",
+  "image": "https://raw.githubusercontent.com/username/repo/main/images/collection.png",
+  "social_links": ["https://t.me/ton_blockchain"]
+}
