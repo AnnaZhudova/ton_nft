@@ -1,0 +1,9 @@
+{
+  "name": "TON Scholar #2",
+  "description": "Second NFT in TON educational collection",
+  "image": "https://raw.githubusercontent.com/username/repo/main/images/nft2.png",
+  "attributes": [
+    {"trait_type": "Rarity", "value": "Rare"},
+    {"trait_type": "Edition", "value": "2/3"}
+  ]
+}
