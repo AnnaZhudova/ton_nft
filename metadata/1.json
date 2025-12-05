@@ -1,0 +1,9 @@
+{
+  "name": "TON Scholar #1",
+  "description": "First NFT in TON educational collection",
+  "image": "https://raw.githubusercontent.com/username/repo/main/images/nft1.png",
+  "attributes": [
+    {"trait_type": "Rarity", "value": "Common"},
+    {"trait_type": "Edition", "value": "1/3"}
+  ]
+}
